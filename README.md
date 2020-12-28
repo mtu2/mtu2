@@ -1,5 +1,3 @@
-### Hello there 👋
-
 <!--
 **mtu2/mtu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Hi 👋, I'm Michael</h3>
+#### Hi 👋, I'm Michael ####
 I'm currently studying a Bachelor of Commerce + Diploma in Mathematical Sciences at the University of Melbourne.
 
-ABOUT
+##### ABOUT #####
 - 🔭 Currently working on [a university kanban board](https://mtu-unitracker.herokuapp.com/)
 - 🌱 Learning full stack web development (**MERN stack**)
 - 💻 All of my projects are available at [michael5242.github.io](michael5242.github.io)
