@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi 👋, I'm Michael ####
+### Hi 👋, I'm Michael ###
 I'm currently studying a Bachelor of Commerce + Diploma in Mathematical Sciences at the University of Melbourne.
 
 ##### ABOUT #####
