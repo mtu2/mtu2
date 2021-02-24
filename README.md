@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I'm currently studying a Bachelor of Commerce + Diploma in Mathematical Sciences at the University of Melbourne.
 
 ##### ABOUT #####
-- 🔭 Currently working on [a university kanban board](https://mtu-unitracker.herokuapp.com/)
-- 🌱 Learning full stack web development (**MERN stack**)
-- 💻 All of my projects are available at [michael5242.github.io](michael5242.github.io)
+- 🔭 Currently working on [a Twitter messenger bot](https://github.com/mtu2/messenger-bot)
+- 🌱 Learning algorithms and data structures in Python & Java
+- 💻 All of my projects are available at [mttu.dev](mttu.dev)
 - 📫 Reach me: [LinkedIn](www.linkedin.com./in/tu-michael)
 
 <!--
